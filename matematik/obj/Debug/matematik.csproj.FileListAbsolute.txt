@@ -1,0 +1,8 @@
+C:\Users\Damla\source\repos\metotlar\matematik\bin\Debug\matematik.exe.config
+C:\Users\Damla\source\repos\metotlar\matematik\bin\Debug\matematik.exe
+C:\Users\Damla\source\repos\metotlar\matematik\bin\Debug\matematik.pdb
+C:\Users\Damla\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.AssemblyReference.cache
+C:\Users\Damla\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damla\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.CoreCompileInputs.cache
+C:\Users\Damla\source\repos\metotlar\matematik\obj\Debug\matematik.exe
+C:\Users\Damla\source\repos\metotlar\matematik\obj\Debug\matematik.pdb
